@@ -6,7 +6,7 @@ body {
 
 .jumbotron {
     text-align: center;
-    background-image: url("../images/simpsons.png");
+    background-image: url("../images/simpsons.jpg");
     border-radius: 5px;
     box-shadow: 5px 5px 5px;
 }
@@ -18,14 +18,19 @@ body {
     border-radius: 5px;
     background-color: white;
     box-shadow: 5px 5px 5px;
+    margin-bottom: 30px;
 }
 
 .card2 {
-    margin-top: 10px;
     border: 1px;
     border-style: solid;
     border-color: #E9ECEF;
     border-radius: 5px;
     background-color: white;
     box-shadow: 5px 5px 5px;
+    margin-bottom: 30px;
+}
+
+h5 {
+    padding-top: 10px;
 }
