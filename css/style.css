@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/Springfield.jpg");
+    background-size: 100%;
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url("../images/simpsons.png");
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px;
+}
+
+.card1 {
+    border: 1px;
+    border-style: solid;
+    border-color: #E9ECEF;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px;
+}
+
+.card2 {
+    margin-top: 10px;
+    border: 1px;
+    border-style: solid;
+    border-color: #E9ECEF;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 5px;
+}
